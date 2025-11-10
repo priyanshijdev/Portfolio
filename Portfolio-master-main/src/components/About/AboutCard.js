@@ -16,7 +16,7 @@ function AboutCard() {
               <span className="purple">B.Tech at IPEC, Sahibabad</span>.
               <br />
               Currently, I am working as a{" "}
-              <span className="purple">Software Developer at Innobit Systems</span>, where I contribute to building efficient and scalable digital solutions.
+              <span className="purple">Software Developer at Moneymul</span>, where I contribute to building efficient and scalable digital solutions.
               <br />
               <br />
               Apart from coding, some activities I genuinely enjoy include:
