@@ -7,11 +7,11 @@ import { MdWork } from "react-icons/md";
 function Experience() {
   const experiences = [
     {
-      date: "September 2023 - Present",
+      date: "September 2025 - Present",
       company: "Moneymul",
       position: "Software Developer",
       description: "Contributing to building efficient and scalable digital solutions.",
-      location: "Remote",
+      location: "Noida",
       current: true,
     },
     {
@@ -19,7 +19,7 @@ function Experience() {
       company: "Innobit System",
       position: "Software Developer",
       description: "Developed and maintained web applications using modern technologies.",
-      location: "Remote",
+      location: "Noida",
       current: false,
     },
   ];
